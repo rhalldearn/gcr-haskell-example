@@ -1,9 +1,9 @@
-# Haskell Serverless on GCR
+# Haskell Serverless on Google Cloud Run (GCR)
 
 ## What does this example do exactly?
 
 It builds this haskell project with stack using an FP Complete docker instance to build (consistent builds)
-It takes the build output and creates a docker image from it based on ubuntu 18.04 base image
+It takes the build output and creates a docker image from it based on an ubuntu 18.04 base image
 It deploys the instance to GCR (google cloud run)
 
 ## But what does it actually do?
