@@ -14,12 +14,12 @@ TODO: Find out how much it typically costs to run GCR and append here.
 
 ## References
 
-https://github.com/knative/docs/tree/175313457f94baa036b400f12d162157edef70a7/community/samples/serving/helloworld-haskell
+[helloworld-haskell](https://github.com/knative/docs/tree/175313457f94baa036b400f12d162157edef70a7/community/samples/serving/helloworld-haskell)
 
-https://haskell-servant.readthedocs.io/en/stable/tutorial/Javascript.html
+[servant javascript tutorial](https://haskell-servant.readthedocs.io/en/stable/tutorial/Javascript.html)
 
-https://github.com/haskell-servant/servant/blob/master/doc/tutorial/Javascript.lhs
+[literate haskell javascript example](https://github.com/haskell-servant/servant/blob/master/doc/tutorial/Javascript.lhs)
 
-https://cloud.google.com/run/docs/quickstarts/build-and-deploy?hl=fi
+[running haskell on gcr](https://cloud.google.com/run/docs/quickstarts/build-and-deploy?hl=fi)
 
-
+[servant-auth](https://github.com/haskell-servant/servant-auth/tree/master/servant-auth-server)
