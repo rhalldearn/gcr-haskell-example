@@ -1,1 +1,1 @@
-:set -pgmL markdown-unlit -Wall -Werror -isrc -fno-warn-missing-methods -fno-warn-name-shadowing -fwarn-unused-binds -fwarn-unused-imports -itest
+:set -pgmL markdown-unlit -Wall -Werror -isrc -fno-warn-missing-methods -fno-warn-name-shadowing -fwarn-unused-binds -fwarn-unused-imports -itest -XTypeOperators
