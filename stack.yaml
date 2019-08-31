@@ -5,4 +5,5 @@ extra-deps: []
 resolver: lts-13.30
 docker: 
    enable: true
-
+nix:
+   enable: false
